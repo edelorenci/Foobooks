@@ -43,7 +43,6 @@ $app = require_once __DIR__.'/../bootstrap/start.php';
 | which will execute the request and send the response back to
 | the client's browser allowing them to enjoy the creative
 | and wonderful application we have whipped up for them.
-|
 */
 
 $app->run();
